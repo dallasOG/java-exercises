@@ -1,4 +1,5 @@
-### Java (oop) exercises
+Java (OOP) exercises
+=====================
 
 This repository contains a collection of practical exercises 
 focused on the main concepts of Object-Oriented Programming (OOP), 
@@ -10,13 +11,8 @@ The exercises are organized into folders, each covering a specific
 OOP concepts, such as encapsulation, inheritance, polymorphism, 
 and abstraction
 
-How to run:
-   ```bash
-   > git clone https://github.com/vittordallacqua/java-exercises.git
-   > cd java-exercises
-   ```
-
-Using VS Code:
+Using VS Code
+==============
 
 * Make sure you have the "Extension Pack for Java" by Microsoft 
 installed. This includes Language Support for Java™, Debugger for 
